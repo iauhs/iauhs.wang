@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = "iauhs"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-115501215-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "zh"
@@ -240,7 +240,7 @@ defaultContentLanguageInSubdir = true
 
 [[menu.main]]
   name = "Posts"
-  url = "/tags/post"
+  url = "en/post"
   weight = 30
 
 [[menu.main]]
@@ -262,7 +262,7 @@ defaultContentLanguageInSubdir = true
 
 [[languages.zh.menu.main]]
   name = "日志"
-  url = "/tags/post"
+  url = "zh/post"
   weight = 30
 
 
@@ -282,7 +282,7 @@ defaultContentLanguageInSubdir = true
 
 [[languages.fr.menu.main]]
   name = "post"
-  url = "/tags/post"
+  url = "fr/post"
   weight = 30
 
 
