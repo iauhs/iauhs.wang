@@ -13,8 +13,12 @@ weight = 5
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
   # overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/paris_grand.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+
+# https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png
+# headers/paris_grand.jpg
+
 
 # Call to action button (optional).
 #   Activate the button by specifying a URL and button label below.
