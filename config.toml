@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir = true
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "playfair"
+  font = "classic"
 
   # Your details.
   name = "Shuai WANG"
@@ -67,7 +67,7 @@ defaultContentLanguageInSubdir = true
   # telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
-  keybase = "avatar"
+  keybase = ""
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
