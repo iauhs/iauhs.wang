@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = true
   organizations = [ { name = "Direct Assurance", url = "" } ]
 
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "https://ws4.sinaimg.cn/large/006tNc79gy1fppwei738tj30k40u641v.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "shuai2wang@gmail.com"
   # address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
