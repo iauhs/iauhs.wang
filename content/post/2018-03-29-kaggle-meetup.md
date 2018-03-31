@@ -19,7 +19,7 @@ header:
 第一个分享的主题是Cdiscount的DS介绍他们的一个kaggle竞赛的结果。是用图片对产品进行分类。
 这里就介绍一下前几名的解决方案吧。
 1. bestfitting ： 0.79567 第一名是中国人 :)
-2. : 0.79352 
+2. : 0.79352 队中也有两个中国人！
 3. dylan 0.79046 也是中国人：）
 
 前三名的相同点：
@@ -95,11 +95,58 @@ for Time based cross validation if time dependant data
   then retrian on all data and submit
   
 
+CV score : M1 : 0.98040 (LB pubilc)
+          M2 : 0.97937 (CR result)
+
+Trqin score :
+0.99004
+0.98313
+
+
+look at the gap between train and val score, a large gap is an indication of overfiting
+when there are changes, check that it change not the score a lot 
 
 
 
+FE :
+try a lot and fail fast
+try common sense ideas
+  try to understand the underlying bussiness
+  in 2 sigma rental, trained a model to predic prices then used the delta between predicted price and actuel price to predict interest
+  
+try usual suspects
+  counts
+  targeting encoding
+  clustering
+  sin(x),cos(x) for hours, minutes, days不理解为什么要这样做。。。
+  lag variables for time series
 
 
+这个人应该有点老。。。说话好慢啊！！比我记得还慢 :)让我想到了 闪电！：）
+
+
+HPO :
+
+tune algo/model parameters
+
+impossible without reliable validation setting
+donot overtune your parameters
+
+xgboost/lightgbm :
+  start with subsample = 0.7
+  play with 
+  
+  
+Ensembling
+
+use same folds for all models (CV)
+"ensembleing guide kaggle"
+
+Practice
+reqd best solution after each co;petition
+
+
+share what i find :) --> discussion grand master
 
 
 
