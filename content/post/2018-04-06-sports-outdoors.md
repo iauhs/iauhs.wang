@@ -17,9 +17,9 @@ header:
 曾经是济南市燕山中学初中乒乓球队和篮球队的成员。篮球在市初中生比赛中连着两年拿过第六名，高中没有进校队，大学在院队拿过两届学校比赛的冠军和一届学校比赛的亚军。乒乓球组织过大学城九个学校的校际比赛，拿过学校比赛的亚军（业余组，无高水平运动员参加）。2011年在克莱蒙读语言的时候做过club小朋友的陪练，2015-2016赛季参加过巴黎的业余联赛。
 
 关于户外经历：在国内几乎没有，在克莱蒙时跟朋友去走过puy de dome，在里昂时去尚贝里走过dents de chat，参加过一次ecotrail 18km，跟过巴黎户外的几次短程的徒步，一次Alsace的徒步（中途崴脚）。去划过几次雪和学过一周的冲浪（Biarritz）。骑行经验比较丰富，在里昂爬过周边的几座山，还去爬过环法赛道 ： Col de Colombes
-![Col de Colombes](https://www.google.fr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiQ4Jern6TaAhUOsBQKHeY2CSkQjRx6BAgAEAU&url=https%3A%2F%2Fwww.cols-cyclisme.com%2Fpyrenees-est%2Ffrance%2Fcol-de-jau-depuis-sainte-colombe-sur-guette-c238.htm&psig=AOvVaw1-FQ4Vc-TqhzCo39aBnM4R&ust=1523055843851779)
 
-其次参加过三次AXA组织的450km左右的远程骑行。今年会骑第四次。
+
+其次参加过三次AXA组织的450km左右的远程骑行。今年会骑第四次（4天500km）。
 下周去骑一次荷兰郁金香田。在巴黎周边也骑过十几次50km以上的骑行。
 
 基本上就是这些了。
