@@ -2,11 +2,11 @@
 title: '第一天Nigloland Parc d’attraction '
 author: shuai
 date: '2018-03-31'
-slug: nigloland-parc-d-attraction
 categories:
   - 游记
 tags:
   - 自驾游
+slug: nigloland-parc-d-attraction
 header:
   caption: ''
   image: ''
@@ -15,6 +15,10 @@ header:
 早上9点45从Puteaux出发，快到游乐园的时候吃了一家很好吃的kebab，一点半到达nigloland开始玩：）
 一上来做了一个小火车，慢慢的有点无聊。之后发现，水洒了一书包。。直接跑到[Donjon de l'extreme](https://www.nigloland.fr/en/attractions-et-spectacles/thrilling-attractions/le-donjon-de-lextreme) 号称是 The highest rotating free-fall drop tower in the world（翻译过来应该是最高的旋转的自由落体跳楼机）
 ![The highest rotating free-fall drop tower in the world](https://www.nigloland.fr/wp-content/uploads/2017/10/attraction-sensations-fortes-donjon_informations.jpg)
+<video id="video" controls="" preload="none" poster="http://t.cn/RxDz82m">
+<source id="mp4" src="http://t.cn/RxDz82m" type="video/mp4">
+</video>
+
 
 http://t.cn/RxDz82m
 
