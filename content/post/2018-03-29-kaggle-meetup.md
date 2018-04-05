@@ -2,13 +2,13 @@
 title: kaggle_meetup
 author: shuai
 date: '2018-03-29'
-slug: kaggle-meetup
 categories:
   - kaggle
   - meetup
 tags:
   - cdiscount
   - classify tge catalog with image
+slug: kaggle-meetup
 header:
   caption: ''
   image: ''
@@ -104,15 +104,12 @@ EX.
 CV score : M1 : 0.98040 (LB pubilc)
           M2 : 0.97937 (CR result)
 
-Trqin score :
+Train score :
 0.99004
 0.98313
 
-
-Look at the gap between train and val score, a large gap is an indication of overfiting
-when there are changes, check that it change not the score a lot 
-
-
+Look at the gap between train and val score, a large gap is an indication of overfitting.
+When there are changes, check that it change not the score a lot 
 
 FE :
 try a lot and fail fast
