@@ -9,7 +9,7 @@ tags:
 slug: sports-outdoors
 header:
   caption: ''
-  image: https://ws2.sinaimg.cn/large/006tKfTcgy1fq2km04otdj31kw16r7f9.jpg
+  image: 'https://ws2.sinaimg.cn/large/006tKfTcgy1fq2km04otdj31kw16r7f9.jpg'
 ---
 
 这篇文章是用来申请巴黎户外的骑行或是短程徒步旅行的领队。
