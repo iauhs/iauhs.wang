@@ -16,17 +16,15 @@ header:
 
 自从一年前去徒步崴伤了脚踝，几乎就没有参加过任何的meetup。今晚终于有动力跑来参加一个[kaggle的meetup](https://www.meetup.com/Kaggle-Paris-Meetup/events/247658535/)。
 
-第一个分享的主题是Cdiscount的DS介绍他们的一个kaggle竞赛的结果。是用图片对产品进行分类。
-这里就简单介绍一下前几名的解决方案吧。
-
+第一个分享的主题是Cdiscount的DS介绍他们组织的kaggle竞赛的结果。比赛需要用图片对产品进行分类。中国Kaggler真的太牛了！前三名全都有中国人的身影：
 1. bestfitting : 0.79567 第一名是中国人 :)
-2. conv.pred. : 0.79352 队中也有两个中国人！
+2. conv.pred. : 0.79352 队中有两个中国人！
 3. dylan : 0.79046 也是中国人：）
 
 前三名的相同点：
 
 * SOA architectures
-  * Resnet inceptionResNetV2 Xception
+  * Resnet inception ResNextV2 Xception
   * InceptionV3 ResNext SE-block
   * DenseNet Dual Path Network
 * 硬件 ：GPU+SSD(可以赢得时间)
@@ -35,7 +33,6 @@ header:
 3rd place, Dylan ： 8GPU on a single machine
 
 Parameters : (完全不懂，有空要看一下图像识别的东西)
-
   * Optimiszer
     * NAdam
   * Data augmentation
@@ -56,10 +53,9 @@ why ？ 没听懂。。。
 2eme : team of 3 people, weighted result on validation set
 GTX1080
 
-Intrest point :  
+Interest point :  
 * Number of image
 * Image order important !!
-
 
 
 1 place, bestfitting :
