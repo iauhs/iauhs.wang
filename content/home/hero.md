@@ -28,4 +28,4 @@ weight = 5
 #  label = '<i class="fa fa-download"></i> all Now'
 +++
 
-一个记录生活中点滴的网站，外加一点点我的所思所想和所学。
+记录生活中的点滴
