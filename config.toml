@@ -10,7 +10,7 @@ title = "王帅的流水账"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2020"
 
 theme = "hugo-academic"
 enableEmoji = true
