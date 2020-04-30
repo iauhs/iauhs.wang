@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on 王帅的流水账</title>
+    <link>http://iauhs.wang/zh/home/</link>
+    <description>Recent content in Homes on 王帅的流水账</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 15 Oct 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://iauhs.wang/zh/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>生活在巴黎</title>
+      <link>http://iauhs.wang/zh/home/hero/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://iauhs.wang/zh/home/hero/</guid>
+      <description>记录生活中的点滴</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://iauhs.wang/zh/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://iauhs.wang/zh/home/about/</guid>
+      <description>Hello world 你好，我是王帅，生于淄博马上，两岁开始在济南生活到26岁。独生子，却有幸在一个大家庭中长大，从小与表哥表弟堂哥堂弟玩耍打闹，话不多却喜欢热闹。2011年来到法国读书工作，现在巴黎附近一家保险公司做数据分析方面的工作。热爱体育，篮球乒乓球有初中校队的水平:)偶尔跑步骑车徒步游泳羽毛球。2018年开始喜欢上滑雪。喜欢尝试好玩的事情。</description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://iauhs.wang/zh/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://iauhs.wang/zh/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://iauhs.wang/zh/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://iauhs.wang/zh/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>http://iauhs.wang/zh/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>http://iauhs.wang/zh/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://iauhs.wang/zh/home/contact/</link>
+      <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://iauhs.wang/zh/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

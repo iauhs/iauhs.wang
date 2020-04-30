@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PEA on 王帅的流水账</title>
+    <link>http://iauhs.wang/zh/tags/pea/</link>
+    <description>Recent content in PEA on 王帅的流水账</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 06 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://iauhs.wang/zh/tags/pea/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>如何在boursorama开PEA</title>
+      <link>http://iauhs.wang/zh/post/boursorama-pea/</link>
+      <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://iauhs.wang/zh/post/boursorama-pea/</guid>
+      <description>其实没什么好写的。。。就是按照步骤一步一步来，PEA开的越早越好，只要往里放一点钱就可以，五年之后再取出买股票赚的钱就可以少交一些税。 只要交Prélèvements sociaux， 应该是15,50%的P-Value。
+中间Boursorama会提供两种Offre 1. Offre Trading （Donner des ordres n&amp;rsquo;a jamais été aussi attractif） 2. Offre 0% （Profitez à fond des fonds SICAV/FCP négociés à 0%）
+我选了第二个，不过好像只能选基金，对1500 个基金有优惠价格： 0% de droits d&amp;rsquo;entrée 0% de droits de sortie 0% de droits de garde 0% d&amp;rsquo;abonnement
+最后查到：SICAV ET FCP 指的是 “法国证券投资基金” https://baike.baidu.com/item/法国证券投资基金业
+法国有两类证券投资基金。一类是&amp;rdquo;可变资本投资公司&amp;rdquo; （sicav-société d&amp;rsquo;investissement à capital variable），另一类是&amp;rdquo;共同投资基金&amp;rdquo;（fcp-fonds communs de placement）。
+争取会买一点指数基金先这么放着。法国这边真的没有什么好的投资手段。 买的时候在写文章聊吧。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://iauhs.wang/fr/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="http://iauhs.wang/en/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://iauhs.wang/zh/" hreflang="zh"/>
+    
+      <loc>http://iauhs.wang/fr/</loc>
+      <lastmod>2018-10-15T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://iauhs.wang/fr/categories/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="http://iauhs.wang/zh/categories/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="http://iauhs.wang/en/categories/" hreflang="en"/>
+    
+      <loc>http://iauhs.wang/fr/categories/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://iauhs.wang/fr/tags/" hreflang="fr"/>
+      <xhtml:link rel="alternate" href="http://iauhs.wang/zh/tags/" hreflang="zh"/>
+      <xhtml:link rel="alternate" href="http://iauhs.wang/en/tags/" hreflang="en"/>
+    
+      <loc>http://iauhs.wang/fr/tags/</loc>
+    </url>
+    
+  
+</urlset>

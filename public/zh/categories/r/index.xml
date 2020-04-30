@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on 王帅的流水账</title>
+    <link>http://iauhs.wang/zh/categories/r/</link>
+    <description>Recent content in R on 王帅的流水账</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 23 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://iauhs.wang/zh/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于建站</title>
+      <link>http://iauhs.wang/zh/post/jianzhan/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://iauhs.wang/zh/post/jianzhan/</guid>
+      <description>这段时间一直在思考自己有哪些缺点。觉得要努力克服自己沟通能力不足的毛病。正好在kezhan家玩桌游的时候被鼓励试着写点DS的文章。又看到谢益辉大神的名人名言“我网故我在”。决定把这个blog建起来。读了几篇关于大神写的r包“blogdown”建立网站的文章。就试着建了这个blog（希望能坚持更新^____^）！
+生活在巴黎偶尔应该会写一点法语的文章，英语也要练一下了，上次在北京参加一个DS的winter school遇到一个AXA的CEO，法国人。。。一路跟我说英语。。。我一直在用法语回他。。。画面好尴尬^_____^
+建站的方法在Ref几篇文章中写的很清楚，我把步骤写下来：
+ 安装软件：R，Rstudio，git，github。配置Rstudio和git，安装blogdown和hugo 注册域名 在github 创建 一个网站的repository 用blogdown建站，写博客，修改主题（想找到一个喜欢实用的主题，还比较花时间） 注册并设置Netlify，连接github（这样每次将新的文章推到github上，网站会自动随着github更新），修改域名服务器, 搞定  Ref ： 1. 用 R 语言的 blogdown+hugo+netlify+github 建博客 2. 用 R blogdown 搭建个人博客或科研网站 3. blogdown: Creating Websites with R Markdown
+聊一下我踩过的坑！多语言！！Multilingual!!! Multilingue!!!! Plurilingue!!!!! 为了这个多语言模板，读了hugo的多语言模式介绍，尝试了无数的模版！总有些小地方觉得不尽如人意。（现在这里吐槽一下blogdown换模版！要把之前的网站手动删掉。也许可以在运行new site的是时候询问是否覆盖之前的site？）
+折腾了n小时想要放弃的时候。最后终于被我找到了大鹏老师的一篇文章Hugo 网站 academic 主题的多语言界面。强烈推荐有相同需求的人仔细阅读。步骤十分详尽。迅速解决问题。感谢大鹏老师。</description>
+    </item>
+    
+  </channel>
+</rss>
